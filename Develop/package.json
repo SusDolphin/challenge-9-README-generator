@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "name": "develop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.3.0"
+  }
+}
